@@ -47,3 +47,9 @@ elif option == "Decompress a file":
                     mime="text/plain"
                 )
             st.success("✅ File successfully decompressed!")
+st.markdown("""
+<hr>
+<div style="text-align: center; font-size: 16px;">
+    <strong>Fatima CS-306 | Hunaiza CS-305 | Mysha CS-304 | Siddiqa CS-303</strong>
+</div>
+""", unsafe_allow_html=True)
